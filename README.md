@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mwhitler, Associate Data Scientist at GAIG
+- 👀 I’m interested in Python, Data Science, and Basketball
+- 🌱 I’m currently diving into NLP and MLOps
